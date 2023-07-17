@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&hesection=header&text=&fontSize=20&fontColor=FFFFFF)
-
 <div align=center>
 ✏ 현재 공부중인 백엔드 주니어 개발자입니다.
 
