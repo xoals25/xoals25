@@ -1,6 +1,4 @@
 <div align=center>
-✏ 현재 공부중인 주니어 개발자입니다.
-
 Email: xoals22421@gmail.com  
 Blog: https://tang25.tistory.com  
 
